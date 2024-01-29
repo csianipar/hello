@@ -1,9 +1,11 @@
 RENCANA KONTEN :
 - PHP PROGRAMMING
+  * List
   * OOP
   * Array
 - JAVA SCRIPT :
   * ES6
   * Framework Javascript
 - VIDEO EDITING
+  * Belajar Filmora
 - PODCAST
