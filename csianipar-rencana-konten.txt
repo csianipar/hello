@@ -1,6 +1,7 @@
 RENCANA KONTEN :
 - PHP PROGRAMMING
   * OOP
+  * Array
 - JAVA SCRIPT :
   * ES6
   * Framework Javascript
