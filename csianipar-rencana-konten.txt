@@ -5,4 +5,5 @@ RENCANA KONTEN :
   * ES6
   * Framework Javascript
 - VIDEO EDITING
+  * Belajar Filmora
 - PODCAST
