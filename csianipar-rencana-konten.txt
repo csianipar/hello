@@ -4,3 +4,4 @@ RENCANA KONTEN :
   * ES6
   * Framework Javascript
 - VIDEO EDITING
+- PODCAST
